@@ -1,8 +1,11 @@
 # CODE2040 Project
 
 -**Name:** Adam Espinoza
+
 -**School:** University of Southern California
+
 -**Major:** Computer Science and Business Administration
+
 -**Minor:** Applied Computer Security
 
 ##Descriton:
