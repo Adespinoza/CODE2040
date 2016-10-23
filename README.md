@@ -14,7 +14,7 @@ Hello stranger reading this description, my name is Adam Espinoza and I am curre
 I do not necessarily have a lot of background working with JSON and Python since my primary languages are C++ and Java, so please forgive me for any awkward syntax. A lot of my time spent for this project was Googling and searching for answers (CS in-a-nutshell, am I right?). This project challenge, however, was incredibly fun to undertake in my free time. I definitely learned a lot about working with APIs, HTTPs, markdown, and Python.  
 
 ###Note: 
-*In order to get this going I needed to `python get-pip.py` which helped me with the requsts library and JSON. I included a link and file in my git repo to get it running in case you, the reader, don't know what I'm talking about. 
+* In order to get this going I needed to `python get-pip.py` which helped me with the requsts library and JSON. I included a link and file in my git repo to get it running in case you, the reader, don't know what I'm talking about. 
 * I also uploaded these files in .py3 since Sublime was getting mad at me for not. If need be, one can switch them to .py by renaming the files. :) 
 
 ##Challenge 2 - Reverse a string: 
