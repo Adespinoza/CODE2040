@@ -15,7 +15,6 @@ I do not necessarily have a lot of background working with JSON and Python since
 
 ###Note: 
 * In order to get this going I needed to `python get-pip.py` which helped me with the requsts library and JSON. I included a link and file in my git repo to get it running in case you, the reader, don't know what I'm talking about. 
-* I also uploaded these files in .py3 since Sublime was getting mad at me for not. If need be, one can switch them to .py by renaming the files. :) 
 
 ##Challenge 2 - Reverse a string: 
 Once you’re registered, it’s time to get started on the challenges.
