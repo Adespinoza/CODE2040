@@ -4,7 +4,10 @@ import json
 web = 'http://challenge.code2040.org/api/prefix'
 validationWeb = 'http://challenge.code2040.org/api/prefix/validate'
 
+#Grab the prefix from web servers 
 prefixRequest = requests.post(web, json={'token':'af9b409be63eedf2b016a42e76ad2253'})
+
+#.Json raises an eception
 prefixRequest = prefixRequest.json()
 
 #Parse the request object
