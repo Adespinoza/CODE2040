@@ -4,6 +4,7 @@ import json
 web = 'http://challenge.code2040.org/api/haystack'
 validationWeb = 'http://challenge.code2040.org/api/haystack/validate'
 
+#Initialize the haystack object (with needle) from website
 needleInHay = requests.post(web, json={'token':'af9b409be63eedf2b016a42e76ad2253'})
 
 # .json() raises an exception 
