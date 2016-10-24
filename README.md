@@ -45,7 +45,7 @@ Great job so far. The last challenge is a little different. You’re going to wo
 The API will again give you a dictionary. The value for datestamp is a string, formatted as an ISO 8601 datestamp. The value for interval is a number of seconds.
 
 ##Refrences:
-Here are a list of refrences I utilized to make this project come together. I hope this not only helps me, but other future CODE2040 applicants in the future:
+Here are a list of refrences I utilized to make this project come together. I hope this not only helps me, but other future CODE2040 applicants:
 * [Installing Python on Mac OS X](http://docs.python-guide.org/en/latest/starting/install/osx/)
 * [Installing Pip for Python](https://pip.pypa.io/en/stable/installing/)
 * [The Hitchhikers' Guide to Python ](http://docs.python-guide.org/en/latest/scenarios/json/)
